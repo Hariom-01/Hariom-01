@@ -3,7 +3,8 @@
 
 
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="right">Connect with me:
+"linkedin"="https://www.linkedin.com/in/hariom-kumar-ray-393998244/"</h3>
 <p align="right">
 </p>
 
