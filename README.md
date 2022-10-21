@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hariom Kumar Ray</h1>
 <h3 align="center">||CODER||</h3>
-
+<p><img src="https://camo.githubusercontent.com/0a825bc……733d576…" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-The-World-Of-Hariom Ray" style="max-width: 100%;"></p>
 
 
 <h3 align="right">Connect with me:
