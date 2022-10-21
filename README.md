@@ -4,7 +4,7 @@
 
 
 <h3 align="right">Connect with me:
-<img src="<img src="https://www.linkedin.com/in/hariom-kumar-ray-393998244/" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+
 "linkedin"="https://www.linkedin.com/in/hariom-kumar-ray-393998244/"</h3>
 <p align="right">
 </p>
