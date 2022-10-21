@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hariom Kumar Ray</h1>
 <h3 align="center">||CODER||</h3>
-<img aling="right" alt="coding" width="400" src="<h1 align="center">Hi 👋, I'm Hariom Kumar Ray</h1>
+<img aling="right" alt="coding" width="400" src="https://www.google.com/search?q=coding+images&rlz=1C1CHBD_enIN1005IN1005&sxsrf=ALiCzsb2jb2L09X6hYDjYVYGiL0jRwRpBg:1666370596869&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie_vWb4vH6AhVfR2wGHTapDKYQ_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25#imgrc=xMlLVw_nkEgRMM">Hi 👋, I'm Hariom Kumar Ray</h1>
 <h3 align="center">||CODER||</h3>
 
-<p align="right"> <img src="https://www.google.com/search?q=coding+images&rlz=1C1CHBD_enIN1005IN1005&sxsrf=ALiCzsb2jb2L09X6hYDjYVYGiL0jRwRpBg:1666370596869&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie_vWb4vH6AhVfR2wGHTapDKYQ_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25#imgrc=xMlLVw_nkEgRMM" /> </p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
