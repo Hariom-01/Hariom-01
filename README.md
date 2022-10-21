@@ -5,7 +5,7 @@
 
 <h3 align="right">Connect with me:
 
-"https://www.google.com/search?q=linkedin++&tbm=isch&ved=2ahUKEwiPtIHC6fH6AhXSoukKHd4aAuUQ2-cCegQIABAA&oq=linkedin++&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIICAAQgAQQsQMyCAgAEIAEELEDMgQIABBDMgQIABBDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzoFCAAQgARQ-wZY7AxghxRoAHAAeACAAYABiAHlBJIBAzAuNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=y9NSY8-iMNLFpgfetYioDg&bih=714&biw=1536&rlz=1C1CHBD_enIN1005IN1005#imgrc=crkWXcUsBtemHMhttps://www.linkedin.com/in/hariom-kumar-ray-393998244/"</h3>
+https://www.linkedin.com/in/hariom-kumar-ray-393998244/"</h3>
 <p align="right">
 </p>
 
