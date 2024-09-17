@@ -3,13 +3,13 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mzags.com/wp-content/uploads/2022/06/programmer-animation.gif">
 
-- 🔭 I’m currently working on [Restaurant_Service_Webapp](https://github.com/Shivam2906-ui/SKM_RESTAURANT_SERVICES)
+- 🔭 I’m currently working on [Chat_Application](https://github.com/Hariom-01/chat_app)
 
 - 🌱 I’m currently learning *NODE JS*
 
 - 💬 Ask me about *REACT JS*
 
-- 📫 How to reach me *shivam.mishradbg2906@gmail.com*
+- 📫 How to reach me *hariomkumar.ray2021*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yMXidbXDmIY6Hwc99tvMX_POE-iQpayM/view?usp=drive_link](https://drive.google.com/file/d/1yMXidbXDmIY6Hwc99tvMX_POE-iQpayM/view?usp=drive_link)
 
