@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *REACT JS*
 
-- 📫 How to reach me *hariomkumar.ray2021*
+- 📫 How to reach me *hariomkumar.ray2021@uem.edu.in*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yMXidbXDmIY6Hwc99tvMX_POE-iQpayM/view?usp=drive_link](https://drive.google.com/file/d/1yMXidbXDmIY6Hwc99tvMX_POE-iQpayM/view?usp=drive_link)
 
