@@ -3,11 +3,11 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mzags.com/wp-content/uploads/2022/06/programmer-animation.gif">
 
-- 🔭 I’m currently working on [Chat_Application](https://github.com/Hariom-01/chat_app)
+- 🔭 I’m currently working on [Full Stack Project]()
 
 - 🌱 I’m currently learning *NODE JS*
 
-- 💬 Ask me about *REACT JS*
+- 💬 Ask me about *REACT JS, JAVASCRIPT*
 
 - 📫 How to reach me *hariomkumar.ray2021@uem.edu.in*
 
