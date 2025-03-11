@@ -1,6 +1,6 @@
 ![MasterHead](https://thedigitalfreak.com/wp-content/uploads/2020/06/How-Software-Development-Company-Works.jpg)
 <h1 align="center">Hi 👋, I'm Hariom Kumar Ray</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mzags.com/wp-content/uploads/2022/06/programmer-animation.gif">
 
 - 🔭 I’m currently working on [Full Stack Project]()
